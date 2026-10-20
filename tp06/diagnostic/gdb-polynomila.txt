@@ -1,0 +1,11 @@
+Breakpoint 1 at 0x117a: file src/polynomial.c, line 5.
+Starting program: /home/lamairi/Documents/odl/tp06/diagnostic/build/polynomial 
+[Thread debugging using libthread_db enabled]
+Using host libthread_db library "/lib/x86_64-linux-gnu/libthread_db.so.1".
+
+Breakpoint 1, polynomial (x=2) at src/polynomial.c:5
+$1 = 2
+$2 = 1.5
+$3 = 9.8813129168249309e-324
+#0  polynomial (x=2) at src/polynomial.c:6
+#1  0x000055555555522e in main () at src/polynomial.c:17

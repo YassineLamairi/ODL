@@ -1,0 +1,43 @@
+Breakpoint 1 at 0x115a: file src/range_check.c, line 4.
+Starting program: /home/lamairi/Documents/odl/tp06/diagnostic/build/range_check 
+[Thread debugging using libthread_db enabled]
+Using host libthread_db library "/lib/x86_64-linux-gnu/libthread_db.so.1".
+
+Breakpoint 1, within_range (value=15, minimum=10, maximum=20) at src/range_check.c:4
+check_reading (reading=15) at src/range_check.c:9
+Program not restarted.
+main () at src/range_check.c:14
+check_reading (reading=10) at src/range_check.c:8
+
+Breakpoint 1, within_range (value=10, minimum=10, maximum=20) at src/range_check.c:4
+Undefined command: "stem".  Try "help".
+check_reading (reading=10) at src/range_check.c:9
+__printf (format=0x555555556004 "Mesure %d : %d\n") at ./stdio-common/printf.c:28
+#0  __printf (format=0x555555556004 "Mesure %d : %d\n") at ./stdio-common/printf.c:33
+#1  0x00005555555551ba in check_reading (reading=10) at src/range_check.c:9
+#2  0x00005555555551d9 in main () at src/range_check.c:14
+Starting program: /home/lamairi/Documents/odl/tp06/diagnostic/build/range_check 
+[Thread debugging using libthread_db enabled]
+Using host libthread_db library "/lib/x86_64-linux-gnu/libthread_db.so.1".
+
+Breakpoint 1, within_range (value=15, minimum=10, maximum=20) at src/range_check.c:4
+Breakpoint 2 at 0x5555555551cf: file src/range_check.c, line 14.
+Starting program: /home/lamairi/Documents/odl/tp06/diagnostic/build/range_check 
+[Thread debugging using libthread_db enabled]
+Using host libthread_db library "/lib/x86_64-linux-gnu/libthread_db.so.1".
+
+Breakpoint 1, within_range (value=15, minimum=10, maximum=20) at src/range_check.c:4
+check_reading (reading=15) at src/range_check.c:9
+
+Breakpoint 2, main () at src/range_check.c:14
+No symbol "reading" in current context.
+
+Breakpoint 1, within_range (value=10, minimum=10, maximum=20) at src/range_check.c:4
+$1 = 10
+$2 = 10
+check_reading (reading=10) at src/range_check.c:9
+$3 = 10
+$4 = 0
+#0  check_reading (reading=10) at src/range_check.c:9
+#1  0x00005555555551d9 in main () at src/range_check.c:14
+Undefined command: "check_reading".  Try "help".
