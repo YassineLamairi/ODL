@@ -1,0 +1,3 @@
+Ce fichier possède un nom contenant des espaces.
+Le chiffre de César ne modifie ici que les lettres non accentuées.
+Après un chiffrement puis un déchiffrement, ce texte doit être retrouvé.

@@ -1,0 +1,18 @@
+" Configuration minimale pour le TP Vim
+
+" Affichage
+set number
+set ruler
+set showcmd
+
+" Correction et recherche
+set backspace=indent,eol,start
+set ignorecase
+set smartcase
+set incsearch
+set hlsearch
+
+" Coloration du texte
+syntax enable
+set background=dark
+colorscheme desert

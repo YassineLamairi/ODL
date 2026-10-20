@@ -1,0 +1,4 @@
+Guy prépare un programme en C.
+Le terminal permet de répéter une tâche sans l'oublier.
+Un script utile doit aussi signaler ses erreurs.
+Rendez-vous à 14 h dans la salle E204.

@@ -1,0 +1,23 @@
+jacqueline pts/2        192.0.2.44       Thu Sep 10 17:49   still logged in
+albert     pts/1        198.51.100.21    Thu Sep 10 17:24 - 17:47  (00:23)
+sophie     pts/0        203.0.113.18     Thu Sep 10 17:08 - 17:41  (00:33)
+jean       pts/3        192.0.2.17       Thu Sep 10 14:55 - 16:02  (01:07)
+sophie     pts/2        203.0.113.18     Thu Sep 10 14:36 - 15:08  (00:32)
+albert     pts/1        198.51.100.21    Thu Sep 10 14:19 - 15:47  (01:28)
+jacqueline pts/0        192.0.2.44       Thu Sep 10 14:03 - 14:58  (00:55)
+jean       pts/2        192.0.2.17       Thu Sep 10 12:21 - 13:06  (00:45)
+reboot     system boot  6.8.0-79-generic Thu Sep 10 07:01   still running
+albert     pts/3        198.51.100.21    Wed Sep  9 10:39 - 11:02  (00:23)
+sophie     pts/2        203.0.113.18     Wed Sep  9 10:06 - 10:51  (00:45)
+jacqueline pts/1        192.0.2.44       Wed Sep  9 09:57 - 10:18  (00:21)
+jean       pts/0        192.0.2.17       Wed Sep  9 09:43 - 10:11  (00:28)
+albert     pts/3        198.51.100.21    Wed Sep  9 09:28 - 09:49  (00:21)
+sophie     pts/2        203.0.113.18     Wed Sep  9 09:11 - 09:53  (00:42)
+jacqueline pts/1        192.0.2.44       Wed Sep  9 09:02 - 09:34  (00:32)
+shutdown   system down  6.8.0-78-generic Wed Sep  9 19:02 - 07:00  (11:58)
+albert     pts/0        198.51.100.21    Wed Sep  9 08:51 - 09:17  (00:26)
+sophie     pts/0        203.0.113.18     Wed Sep  9 08:17 - 08:44  (00:27)
+jean       pts/2        192.0.2.17       Wed Sep  9 08:04 - 08:51  (00:47)
+jacqueline pts/1        192.0.2.44       Wed Sep  9 07:32 - 08:12  (00:40)
+
+wtmp begins Wed Sep  9 07:00:00 2026
